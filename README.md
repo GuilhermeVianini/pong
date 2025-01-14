@@ -22,8 +22,8 @@
     
     - https://www.youtube.com/watch?v=kpxkQldiNPU&t=8s
 
-  <p> Você também usará um módulo para o push:</p>
-  <p> You will need to use this module for making the push work:</p>
+  <p> Você também usará um módulo "push.lua" para a aprência de jogo antigo:</p>
+  <p> You will need to use this module "push.lua" to make the retro style:</p>
     
     - https://github.com/Ulydev/push
   
